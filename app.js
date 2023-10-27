@@ -1,12 +1,22 @@
+//configure .env
+require('dotenv').config();
+
+//Express-Generator required
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
+//Require DB Connection
+const connectDB = require('./database/db');
+
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
+//connect to the database
+connectDB();
+//start express server
 var app = express();
 
 // view engine setup
