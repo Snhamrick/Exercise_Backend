@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Barbell Shrug",
+        "difficulty": 4,
+        "tgtMuscle": "Trapezius",
+        "secMuscle": "Rhomboids",
+        "description": "1. Hold barbell with palm down grip about shoulder width 2. Keep knees slightly bent, hips straight back tall 3. Raise and retract shoulders directly up to ears as high as possible keeping arms straight 4. Return slowly to start position and repeat for desired reps",
+        "variations": "Smith Machien Shrug, Dumbbell Shrug",
+        "vidLink": "https://youtu.be/NAqCVe2mwzM?si=Imcj_d3QYjWryu9h"
+    },
+    {
+        "name": "Barbell Upright Row",
+        "difficulty": 2,
+        "tgtMuscle": "Trapezius",
+        "secMuscle": "Deltoids",
+        "description": "1. Holding barbell with overhand grip about shoulder width in front of body 2. Keep knees slightly bent, hips straight back tall 3. Keeping the weight close to your body lift upward to chin height 4. Slowly return to start position and repeat for desired reps",
+        "variations": "Dumbbell Upright Row, Cable Machine Upright Row",
+        "vidLink": "https://youtu.be/jaAV-rD45I0?si=wguRNWK_TA_Ra9Gg"
+    },
+    {
+        "name": "Barbell Row",
+        "difficulty": 5,
+        "tgtMuscle": "Trapezius",
+        "secMuscle": "Rhomboids, Delltoids",
+        "description": "1. Holding barbell with overhand grip that is just beyond shoulder width 2. Bend at the hips and knees until torso is nearly parellel with floor 3 Pull the bar upward to your upper abdomen 4. Slowly lower the weight to start position and repeat for desired reps *Be catious not to oveload weight and round lower back as this may lead to injury*",
+        "variations": "Dumbbell Row",
+        "vidLink": "https://youtu.be/9efgcAjQe7E?si=aHzNEhI9mdTZOoFU"
+    }
+
+]

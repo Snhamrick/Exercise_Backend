@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Lat Pullldown",
+        "difficulty": 2,
+        "tgtMuscle": "Latissimus Dorsi",
+        "secMuscle": "Biceps Brachii, Teres Major",
+        "description": "1. Using a Lat Pulldown station sit down and grasp bar with overhand grip 2. Without moving your torso pull the bar down to your chest squeezing your shoulder blades 3. Slowly return weight to start position and repeat for desired reps",
+        "variation": "Wide-Grip Lat Pulldown, Close-Grip Lat Pulldown",
+        "vidLink": "https://youtu.be/CAwf7n6Luuc?si=u8xNnAuVCTxl_ZsN"
+    },
+    {
+        "name": "Standing Cable Pullover",
+        "difficulty": 3,
+        "tgtMuscle": "Latissimus Dorsi",
+        "secMuscle": "",
+        "description": "1. Stand in front of cable pulley with bar attached 2. Using and overhand grip grasp bar with slightly over shoulder width grip 3. Using a solid foundation keeping back and arms straight pull the bar down until it touches your thighs 4. Slowly return the weight to start position and repeat for desired reps",
+        "variation": "Single Arm Cable Pullover",
+        "vidLink": "https://youtu.be/32auHIqgEoM?si=VNE75UWa_K9rQWag"
+    },
+    {
+        "name": "Seated Cable Row",
+        "difficulty": 2,
+        "tgtMuscle": "Latissimus Dorsi",
+        "secMuscle": "Trapezius, Rhomboids",
+        "description": "1. Using seated cable row station sit down with desired attachment (may use different attachments for different grips) 2. Place feet into position and keep knees slightly bent grabbing selected attachment 3. Without moving your torso pull the attachment to your upper abdomen 4. Slowly return weight to start position without moving torso and repeat for desired reps",
+        "variation": "Variate with different attachments",
+        "vidLink": "https://youtu.be/GZbfZ033f74?si=zRGAlVBirMm-RL2H"
+    },
+    {
+        "name": "Single Arm Dumbbell Row",
+        "difficulty": 4,
+        "tgtMuscle": "Latissimus Dorsi",
+        "secMuscle": "Trapezius, Rhomboids, Deltoids",
+        "description": "1. Using bench for support stand with feet forming strong base and place one hand on bench making back parallel to floor 2. Using a single dumbbell with non-supporting arm grasp with neutral grip palm facing body 3. Without turning or moving your torso pull weight upward to chest or just outside the chest 4. Slowly return the weight to start position and repeat for desired reps",
+        "variation": "",
+        "vidLink": "https://youtu.be/roCP6wCXPqo?si=6p804tkaU8r41dLo"
+    }
+]

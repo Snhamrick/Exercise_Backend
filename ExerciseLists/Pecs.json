@@ -1,0 +1,39 @@
+[
+
+    {
+        "name": "Barbell Benchpress",
+        "difficulty": 3,
+        "tgtMuscle": "Pectoralis Major",
+        "secMuscle": "Tricep Brachii, Deltoids",
+        "description": "1. Using a flat bench lying on your back grasp the barbell with an overhand grip just wider than shoulder width 2. Holding barbell above sternum lower the barbell straight down in controlled manner keeping elbows tucked 3. Press the barbell upward to start position and repeat for desired reps.",
+        "variations": "Incline Barbell Benchpress, Decline Barbell Benchpress, Close Grip Barbell Benchpress",
+        "vidLink": "https://youtu.be/r-k6o87MZdY?si=xM35K21fhuxz9OcI"
+    },
+    {
+        "name": "Dumbbell Benchpress",
+        "difficulty": 2,
+        "tgtMuscle": "Pectoralis Major",
+        "secMuscle": "Triceps Brachii, Deltoids",
+        "description": "1. Using a pair of dumbbells and flat bench lying on your back hold dumbbells with overhand grip 2. Starting with dumbbells over your chest, arms straigt, palms turned slightly in, and dumbbells nearly touching 3. Lower the dumbbells to the sides of your chest without altering angle of hands 4. Press the dumbbells upward and return to start position and repeat for desired reps",
+        "Variations": "Incline Dumbbell Press, Decline Dumbebll Press, Dumbbell Floor Press",
+        "vidLink": "https://youtu.be/VmB1G1K7v94?si=DH9Q87s3PpXxMo0w"
+    },
+    {
+        "name": "Dumbbell Fly",
+        "difficulty": 4,
+        "tgtMuscle": "Pectoralis Major",
+        "secMuscle": "Deltoids",
+        "description": "1. Using a pair of dumbbells and flat bench lying on your back hold dumbbells over your chest with arms slightly bent and palms facing body's midline 2. Without changing the bend in your elbows lower the weight in conrolled manner down and back until arms are parellell with the floor 3. Lift dumbbells upward and in returning to start position squeezing chest at top of exercise repeat for desired reps",
+        "variations":"Incline Dumbbell Fly, Decline Dumbbell Fly",
+        "vidLink": "https://youtu.be/eozdVDA78K0?si=B7YaX_6dSd4jeJbt"
+    },
+    {
+        "name": "Standing Cable Fly",
+        "difficulty": 3,
+        "tgtMuscle": "Pectoralis Major",
+        "secMuscle": "Deltoids",
+        "description": "1. Using two cable pulleys attach two stirrup handles to pulleys 2. Adust pulley so that it is about or slightly above shoulder height 3. Standing in the middle of the station grasp each handle with one hand, elbows slightly bent, and use staggered stance to engage weight 3. Without altering angle of your elbows pull handles in front of your body until they meet or cross 4. Return to start position and repeat for desired reps",
+        "variations": "High Cable Fly, Low Cable Fly",
+        "vidLink": "https://youtu.be/8Um35Es-ROE?si=a5xTGnOO06IrQlyP"
+    }
+]

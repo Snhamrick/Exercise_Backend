@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+require('./Exercises');
 
 const { DB_STRING } = process.env;
 
@@ -11,6 +12,7 @@ const connectDB = async() => {
         console.log(err.message);
     }
 }
+
 
 
 module.exports = connectDB;
