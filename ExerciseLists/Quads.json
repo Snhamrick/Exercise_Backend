@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Barbell Squat",
+        "difficulty": 3,
+        "tgtMuscle": "Quadriceps",
+        "secMuscle": "Abdominals, Rest of Legs",
+        "description": "1. Always be sure to have a spotter and use the saftey attachments on the squat rack 2. Postion yourself under the barbell placing the barbell on your upper back braced with an overhand grip 3. With your feet just beyond shoulder lift the weight and position yourself within the rack 4. Keeping your lower back arched lower your body bending at the knees as deep as you can 5. Initiate upward movement by first pushing your hips back and drive upward extending your knees returning to start position 6. Repeat for desired reps",
+        "variations": "Dumbbell Squat, Goblet Squat, Barbell Front Squat",
+        "vidLink": "https://www.youtube.com/embed/SW_C1A-rejs?si=yAHrlPld6FkyMvqP"
+
+    }
+]

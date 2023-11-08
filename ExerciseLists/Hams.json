@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Barbell Straight Leg Deadlift",
+        "difficulty": 2,
+        "tgtMuscle": "Hamstrings",
+        "secMuscle": "Gluteus Maximus, Abdominals, Lower Back",
+        "description": " 1. Using a barbell grab the barbell with an overhand grip just beyond shoulder width and hold at arms length in front of your body 2. Without changing the bend in your knees bend at your hips until you torso is almost parellel to the floor 3. Raise your torso and return to start position, repeat for desired reps",
+        "variations": "Dumbbell Straight Leg Deadlift, Smith Machine Straight Leg Deadlift",
+        "vidLink": "https://www.youtube.com/embed/1uDiW5--rAE?si=FQUM5Hxo-RAYo7Cv"
+    }
+]
