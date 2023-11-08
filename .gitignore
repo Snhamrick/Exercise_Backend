@@ -32,3 +32,6 @@ pids
 
 #Environment
 .env
+
+#Docker
+Dockerfile
